@@ -28,21 +28,21 @@ export default function Footer() {
                         className="flex gap-4"
                     >
                         <a
-                            href="https://github.com/"
+                            href="https://github.com/Suhail1608"
                             target="_blank"
                             className="text-muted-foreground hover:text-primary transition"
                         >
                             GitHub
                         </a>
                         <a
-                            href="https://linkedin.com/"
+                            href="https://www.linkedin.com/in/suhail-basha-849208215/"
                             target="_blank"
                             className="text-muted-foreground hover:text-primary transition"
                         >
                             LinkedIn
                         </a>
                         <a
-                            href="mailto:your@email.com"
+                            href="mailto:suhailbasha1608@gmail.com"
                             className="text-muted-foreground hover:text-primary transition"
                         >
                             Email

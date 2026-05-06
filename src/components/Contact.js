@@ -149,7 +149,7 @@ export default function Contact() {
                 >
                     <motion.a
                         variants={item}
-                        href="https://github.com/"
+                        href="https://github.com/Suhail1608"
                         target="_blank"
                         className="hover:text-primary transition"
                     >
@@ -158,7 +158,7 @@ export default function Contact() {
 
                     <motion.a
                         variants={item}
-                        href="https://linkedin.com/"
+                        href="https://www.linkedin.com/in/suhail-basha-849208215/"
                         target="_blank"
                         className="hover:text-primary transition"
                     >
@@ -167,7 +167,7 @@ export default function Contact() {
 
                     <motion.a
                         variants={item}
-                        href="mailto:your@email.com"
+                        href="mailto:suhailbasha1608@gmail.com"
                         className="hover:text-primary transition"
                     >
                         Email
